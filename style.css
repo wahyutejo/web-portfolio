@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #273036;
+}
+
+.display-4,
+.lead {
+  color: #fff;
+}
+
+.projects,
+.card {
+  color: #fff;
+  background-color: #273036;
+}
+
+.card {
+  border-color: #273036;
+}
+
+section {
+  padding-top: 5rem;
+}
